@@ -9,6 +9,7 @@ header {
     background-color: #333;
     padding: 10px;
     text-align: right;
+    box-shadow: 0px 5px 20px black;
 }
 
 header ul {
